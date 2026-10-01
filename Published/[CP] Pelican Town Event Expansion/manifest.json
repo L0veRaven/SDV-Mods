@@ -5,8 +5,12 @@
     "Version": "1.0.5",
     "UniqueID": "L0veRaven.PTEE",
     "UpdateKeys": ["Nexus:39292"],
-    "ContentPackFor": {"UniqueID": "Pathoschild.ContentPatcher",},
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
     "Dependencies": [
-        {"UniqueID": "FlashShifter.StardewValleyExpandedCP","IsRequired": "false"},
+        {
+            "UniqueID": "FlashShifter.StardewValleyExpandedCP","IsRequired": "false"
+        }
     ]
 }

@@ -50,6 +50,20 @@
             }
         },
         {
+            "LogName": "[Maps/Town] Patch Cafe Zone (Vanilla)",
+            "Action": "EditMap",
+            "Target": "Maps/Town",
+            "FromFile": "data/maps/L0veRaven_RavenCafeZone.tmx",
+            "PatchMode": "Replace",
+            "ToArea": {
+                "X": 60,"Y": 0,"Width": 19,"Height": 9
+            },
+            "When": {
+                "HasMod: |contains={{SVE}}": false,
+                "HasFlag: |contains={{Raven}}_Cafe": false
+            }
+        },
+        {
             "LogName": "[Maps/Town] Patch Cafe (Vanilla)",
             "Action": "EditMap",
             "Target": "Maps/Town",
@@ -131,8 +145,7 @@
             },
             "When": {
                 "HasMod: |contains={{SVE}}": true,
-                "Season": "spring, summer, fall",
-                "HasFlag: |contains={{Raven}}_Cafe": true
+                "HasFlag: |contains={{Raven}}_Cafe": false
             }
         },
         {

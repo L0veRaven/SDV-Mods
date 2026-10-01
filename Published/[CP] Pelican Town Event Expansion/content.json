@@ -29,14 +29,7 @@
           "Section": "{{i18n:config.exclude.section}}",
           "Description": "{{i18n:config.exclude.abigail}}"
       },
-      "ExcludeAlex": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.alex}}"
-      },
+      //"ExcludeAlex": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.alex}}"},
       "ExcludeCaroline": {
           "AllowValues": "true, false",
           "AllowBlank": "false",
@@ -53,14 +46,7 @@
           "Section": "{{i18n:config.exclude.section}}",
           "Description": "{{i18n:config.exclude.clint}}"
       },
-      "ExcludeDemetrius": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.demetrius}}"
-      },
+      //"ExcludeDemetrius": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.demetrius}}"},
       "ExcludeDwarf": {
           "AllowValues": "true, false",
           "AllowBlank": "false",
@@ -69,63 +55,14 @@
           "Section": "{{i18n:config.exclude.section}}",
           "Description": "{{i18n:config.exclude.dwarf}}"
       },
-      "ExcludeElliot": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.elliot}}"
-      },
-      "ExcludeEmily": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.emily}}"
-      },
-      "ExcludeEvelyn": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.evelyn}}"
-      },
-      "ExcludeGeorge": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.george}}"
-      },
+      //"ExcludeElliot": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.elliot}}"},
+      //"ExcludeEmily": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.emily}}"},
+      //"ExcludeEvelyn": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.evelyn}}"},
+      //"ExcludeGeorge": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.george}}"},
       //"ExcludeGunther": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.gunther}}"},
-      "ExcludeGus": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.gus}}"
-      },
-      "ExcludeHaley": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.haley}}"
-      },
-      "ExcludeHarvey": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.harvey}}"
-      },
+      //"ExcludeGus": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.gus}}"},
+      //"ExcludeHaley": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.haley}}"},
+      //"ExcludeHarvey": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.harvey}}"},
       "ExcludeJas": {
           "AllowValues": "true, false",
           "AllowBlank": "false",
@@ -134,80 +71,17 @@
           "Section": "{{i18n:config.exclude.section}}",
           "Description": "{{i18n:config.exclude.jas}}"
       },
-      "ExcludeJodi": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.jodi}}"
-      },
-      "ExcludeKent": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.kent}}"
-      },
-      "ExcludeKrobus": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.krobus}}"
-      },
-      "ExcludeLeah": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.leah}}"
-      },
-      "ExcludeLewis": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.lewis}}"
-      },
-      "ExcludeLinus": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.linus}}"
-      },
+      //"ExcludeJodi": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.jodi}}"},
+      //"ExcludeKent": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.kent}}"},
+      //"ExcludeKrobus": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.krobus}}"},
+      //"ExcludeLeah": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.leah}}"},
+      //"ExcludeLewis": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.lewis}}"},
+      //"ExcludeLinus": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.linus}}"},
       //"ExcludeMarlon": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.marlon}}"},
-      "ExcludeMarnie": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.marnie}}"
-      },
-      "ExcludeMaru": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.maru}}"
-      },
+      //"ExcludeMarnie": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.marnie}}"},
+      //"ExcludeMaru": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.maru}}"},
       //"ExcludeMorris": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.morris}}"},
-      "ExcludeMrQi": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.mrqi}}"
-      },
+      //"ExcludeMrQi": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.mrqi}}"},
       "ExcludePam": {
           "AllowValues": "true, false",
           "AllowBlank": "false",
@@ -216,14 +90,7 @@
           "Section": "{{i18n:config.exclude.section}}",
           "Description": "{{i18n:config.exclude.pam}}"
       },
-      "ExcludeLeo": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.leo}}"
-      },
+      //"ExcludeLeo": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.leo}}"},
       "ExcludePenny": {
           "AllowValues": "true, false",
           "AllowBlank": "false",
@@ -256,14 +123,7 @@
           "Section": "{{i18n:config.exclude.section}}",
           "Description": "{{i18n:config.exclude.sam}}"
       },
-      "ExcludeSandy": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.sandy}}"
-      },
+      //"ExcludeSandy": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.sandy}}"},
       "ExcludeSebastian": {
           "AllowValues": "true, false",
           "AllowBlank": "false",
@@ -288,30 +148,16 @@
           "Section": "{{i18n:config.exclude.section}}",
           "Description": "{{i18n:config.exclude.vincent}}"
       },
-      "ExcludeWilly": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.willy}}"
-      },
-      "ExcludeWizard": {
-          "AllowValues": "true, false",
-          "AllowBlank": "false",
-          "Default": "false",
-          "AllowMultiple": "false",
-          "Section": "{{i18n:config.exclude.section}}",
-          "Description": "{{i18n:config.exclude.wizard}}"
-      },
-      //"Exclude___": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.___}}"},
+      //"ExcludeWilly": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.willy}}"},
+      //"ExcludeWizard": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.wizard}}"},
+      //"Exclude___": {"AllowValues": "true, false","AllowBlank": "false","Default": "false","AllowMultiple": "false","Section": "{{i18n:config.exclude.section}}","Description": "{{i18n:config.exclude.___}}"}
     },
 
     "Changes": [
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_001
         {
-            "LogName": "Event 1 - Caroline, Pierre, Abigail",
+            "LogName": "Event 1",
             "Action": "EditData",
             "Target": "Data/Events/SeedShop",
             "Entries": {
@@ -347,7 +193,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_002
         {
-            "LogName": "Event 2 - Vincent, Sam",
+            "LogName": "Event 2",
             "Action": "EditData",
             "Target": "Data/Events/SamHouse",
             "Entries": {
@@ -382,7 +228,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_003
         {
-            "LogName": "Event 3 - Jas, Vincent",
+            "LogName": "Event 3",
             "Action": "EditData",
             "Target": "Data/Events/Forest",
             "Entries": {
@@ -418,7 +264,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_004
         {
-            "LogName": "Letter Draft - Clint (Vanilla)",
+            "LogName": "Event 4 - (Vanilla)",
             "Action": "EditData",
             "Target": "Data/Events/Blacksmith",
             "Entries": {
@@ -442,7 +288,7 @@
             }
         },
         {
-            "LogName": "Letter Draft - Clint (SVE)",
+            "LogName": "Event 4 - (SVE)",
             "Action": "EditData",
             "Target": "Data/Events/Blacksmith",
             "Entries": {
@@ -468,7 +314,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_005
         {
-            "LogName": "Advice - Pam, Shane, Penny",
+            "LogName": "Event 5",
             "Action": "EditData",
             "Target": "Data/Events/Town",
             "Entries": {
@@ -505,7 +351,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_006
         {
-            "LogName": "Memories - Jas",
+            "LogName": "Event 6",
             "Action": "EditData",
             "Target": "Data/Events/Town",
             "Entries": {
@@ -527,7 +373,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_007
         {
-            "LogName": "Bonds - Sam, Penny",
+            "LogName": "Event 7",
             "Action": "EditData",
             "Target": "Data/Events/Beach",
             "Entries": {
@@ -578,7 +424,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_008
         {
-            "LogName": "Mourning - Jas, Farmer",
+            "LogName": "Event 8",
             "Action": "EditData",
             "Target": "Data/Events/Town",
             "Entries": {
@@ -609,7 +455,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_009
         {
-            "LogName": "ReadingOutLoud - Jas, Vincent",
+            "LogName": "Event 9",
             "Action": "EditData",
             "Target": "Data/Events/Town",
             "Entries": {
@@ -646,7 +492,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_010
         {
-            "LogName": "Event 10 - Jas, Marnie, Shane",
+            "LogName": "Event 10",
             "Action": "EditData",
             "Target": "Data/Events/Town",
             "Entries": {
@@ -684,7 +530,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_011
         {
-            "LogName": "Event 11 - Jas, Marnie, Shane",
+            "LogName": "Event 11",
             "Action": "EditData",
             "Target": "Data/Events/AnimalShop",
             "Entries": {
@@ -713,7 +559,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_012
         {
-            "LogName": "Event 12 - Jas, Shane",
+            "LogName": "Event 12",
             "Action": "EditData",
             "Target": "Data/Events/BusStop",
             "Entries": {
@@ -733,7 +579,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_013
         {
-            "LogName": "Event 13 - Jas, Shane",
+            "LogName": "Event 13",
             "Action": "EditData",
             "Target": "Data/Events/Forest",
             "Entries": {
@@ -762,7 +608,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_014
         {
-            "LogName": "Event 14 - Jas",
+            "LogName": "Event 14",
             "Action": "EditData",
             "Target": "Data/Events/AnimalShop",
             "Entries": {
@@ -781,7 +627,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_015
         {
-            "LogName": "Event 15 - Jas, Shane",
+            "LogName": "Event 15",
             "Action": "EditData",
             "Target": "Data/Events/AnimalShop",
             "Entries": {
@@ -806,7 +652,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_016
         {
-            "LogName": "Event 16 - Anthony, Alex, Haley, Vincent, Jas",
+            "LogName": "Event 16",
             "Action": "EditData",
             "Target": "Data/Events/Town",
             "Entries": {
@@ -830,7 +676,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_017
         {
-            "LogName": "Event 17 - Penny",
+            "LogName": "Event 17",
             "Action": "EditData",
             "Target": "Data/Events/Town",
             "Entries": {
@@ -851,7 +697,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_018
         {
-            "LogName": "Event 18 - Jas, Vincent",
+            "LogName": "Event 18",
             "Action": "EditData",
             "Target": "Data/Events/AnimalShop",
             "Entries": {
@@ -888,7 +734,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_019
         {
-            "LogName": "Event 19 - Penny, Pam",
+            "LogName": "Event 19",
             "Action": "EditData",
             "Target": "Data/Events/Town",
             "Entries": {
@@ -922,7 +768,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_020
         {
-            "LogName": "Event 20 - Penny, Pam",
+            "LogName": "Event 20",
             "Action": "EditData",
             "Target": "Data/Events/Trailer",
             "Entries": {
@@ -949,7 +795,7 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_021
         {
-            "LogName": "Event 21 - Pam",
+            "LogName": "Event 21",
             "Action": "EditData",
             "Target": "Data/Events/Trailer",
             "Entries": {
@@ -973,25 +819,142 @@
         //patch reload L0veRaven.PTEE
         //debug ebi L0veRaven.PTEE_022
         {
-            "LogName": "Event 22 - Sebastian (SVE)",
+            "LogName": "Event 22 - (SVE)",
             "Action": "EditData",
             "Target": "Data/Events/Mountain",
             "Entries": {
-                "{{ModId}}_022/Friendship Sebastian 250/NpcVisibleHere Sebastian/Weather sunny": "none/48 27/farmer 44 28 1 Sebastian 48 26 1/skippable/
+                "{{ModId}}_022/Friendship Sebastian 250/NpcVisibleHere Sebastian/Weather sunny": "sappypiano/48 27/farmer 44 28 1 Sebastian 48 26 1/skippable/
                 --Start/animate Sebastian false true 120 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 20 21 21 21 21 21 21 21 21 21 22 23 16 16 16 16 16 16 16 16 16 16 16 16/move farmer 4 0 1 true/pause 3500/faceDirection farmer 0/pause 300/
                 speak Sebastian \"{{i18n:event.022.01}}\"/pause 300/faceDirection farmer 1/pause 300/emote farmer 40/pause 700/
                 speak Sebastian \"{{i18n:event.022.02}}\"/pause 300/faceDirection farmer 0/pause 300/emote farmer 56/pause 300/
                 speak Sebastian \"{{i18n:event.022.03}}\"/pause 300/emote farmer 8/pause 700/
                 speak Sebastian \"{{i18n:event.022.04}}\"/pause 300/emote farmer 8/pause 700/
-                speak Sebastian \"{{i18n:event.022.05}}\"/pause 300/faceDirection farmer 28/pause 700/
+                speak Sebastian \"{{i18n:event.022.05}}\"/pause 300/emote farmer 28/pause 700/
                 speak Sebastian \"{{i18n:event.022.06}}\"/pause 300/stopAnimation Sebastian 16/pause 300/
-                speak Sebastian \"{{i18n:event.022.07}}\"/pause 300/showFrame Sebastian 3/pause 150/faceDirection farmer 0/pause 500/
+                speak Sebastian \"{{i18n:event.022.07}}\"/pause 300/showFrame Sebastian 0/pause 150/faceDirection farmer 0/pause 500/
                 speak Sebastian \"{{i18n:event.022.08}}\"/pause 300/emote farmer 32/pause 500/move Sebastian -2 0 3/
                 end"
             },
             "When": {
                 "HasMod: |contains={{SVE}}": true,
                 "ExcludeSebastian": false
+            }
+        },
+        {
+            "LogName": "Event 22 - (Vanilla)",
+            "Action": "EditData",
+            "Target": "Data/Events/Mountain",
+            "Entries": {
+                "{{ModId}}_022/Friendship Sebastian 250/NpcVisibleHere Sebastian/Weather sunny": "sappypiano/58 36/farmer 54 37 1 Sebastian 58 35 1/skippable/
+                --Start/animate Sebastian false true 120 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 20 21 21 21 21 21 21 21 21 21 22 23 16 16 16 16 16 16 16 16 16 16 16 16/move farmer 4 0 1 true/pause 3500/faceDirection farmer 0/pause 300/
+                speak Sebastian \"{{i18n:event.022.01}}\"/pause 300/faceDirection farmer 1/pause 300/emote farmer 40/pause 700/
+                speak Sebastian \"{{i18n:event.022.02}}\"/pause 300/faceDirection farmer 0/pause 300/emote farmer 56/pause 300/
+                speak Sebastian \"{{i18n:event.022.03}}\"/pause 300/emote farmer 8/pause 700/
+                speak Sebastian \"{{i18n:event.022.04}}\"/pause 300/emote farmer 8/pause 700/
+                speak Sebastian \"{{i18n:event.022.05}}\"/pause 300/emote farmer 28/pause 700/
+                speak Sebastian \"{{i18n:event.022.06}}\"/pause 300/stopAnimation Sebastian 16/pause 300/
+                speak Sebastian \"{{i18n:event.022.07}}\"/pause 300/showFrame Sebastian 0/pause 150/faceDirection farmer 0/pause 500/
+                speak Sebastian \"{{i18n:event.022.08}}\"/pause 300/emote farmer 32/pause 500/move Sebastian -2 0 3/
+                end"
+            },
+            "When": {
+                "HasMod: |contains={{SVE}}": false,
+                "ExcludeSebastian": false
+            }
+        },
+        //patch reload L0veRaven.PTEE
+        //debug ebi L0veRaven.PTEE_023
+        {
+            "LogName": "Event 23 - (Vanilla)",
+            "Action": "EditData",
+            "Target": "Data/Events/Saloon",
+            "Entries": {
+                "{{ModId}}_023/Friendship Sebastian 750/NpcVisibleHere Sebastian/SawEvent {{ModId}}_22 2794460": "sappypiano/36 19/farmer -1000 -1000 2 Sebastian 40 17 2 Abigail 42 18 3 Sam 39 18 1 Gus 10 18 2 Pam 7 18 1 Clint 19 23 3 Willy 18 22 2 Shane 21 17 2/skippable/
+                --Start/animate Shane false true 120 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 22 23 24 24 24 24 24 24 24 23 22 21 20/pause 2000/jump Abigail 8/emote Abigail 32/pause 700/
+                speak Abigail \"{{i18n:event.023.01}}\"/pause 300/jump Sam 8/emote Sam 32/pause 700/
+                speak Sam \"{{i18n:event.023.02}}\"/pause 300/jump Abigail 8/pause 300/jump Sam 8/pause 800/
+                speak Sebastian \"{{i18n:event.023.03}}\"/pause 300/
+                textAboveHead Sebastian \"{{i18n:event.023.04}}\"/pause 500/jump Sam 8/pause 300/jump Abigail 8/pause 300/emote Sam 32 true/emote Abigail 32/pause 500/emote Abigail 8/pause 500/
+                speak Abigail \"{{i18n:event.023.05}}\"/pause 300/shake Sebastian 150/pause 150/emote Sebastian 28/pause 500/
+                speak Sebastian \"{{i18n:event.023.06}}\"/pause 300/faceDirection Sam 0/pause 500/
+                speak Sam \"{{i18n:event.023.07}}\"/pause 300/emote Sebastian 28/pause 500/faceDirection Sam 0 true/emote Sam 8 true/emote Abigail 8/pause 700/
+                speak Sebastian \"{{i18n:event.023.08}}\"/pause 500/
+                speak Abigail \"{{i18n:event.023.09}}\"/pause 300/emote Sebastian 28/pause 500/
+                speak Sebastian \"{{i18n:event.023.10}}\"/pause 300/faceDirection Sam 2 true/faceDirection Abigail 2/pause 500/
+                speak Sam \"{{i18n:event.023.11}}\"/pause 300/faceDirection Abigail 3/pause 500/
+                speak Abigail \"{{i18n:event.023.12}}\"/pause 300/faceDirection Sam 1/pause 500/
+                speak Sam \"{{i18n:event.023.13}}\"/pause 500/
+                speak Sebastian \"{{i18n:event.023.14}}\"/pause 300/jump Abigail/pause 700/
+                speak Abigail \"{{i18n:event.023.15}}\"/pause 300/emote Sebastian 28/pause 700/
+                speak Sebastian \"{{i18n:event.023.16}}\"/pause 300/emote Abigail 32/pause 700/
+                speak Abigail \"{{i18n:event.023.17}}\"/pause 500/
+                speak Sebastian \"{{i18n:event.023.18}}\"/pause 500/
+                speak Abigail \"{{i18n:event.023.19}}\"/pause 500/
+                speak Sebastian \"{{i18n:event.023.20}}\"/pause 300/jump Abigail 8/emote Abigail 32/pause 500/
+                speak Abigail \"{{i18n:event.023.21}}\"/pause 300/jump Abigail 8/emote Abigail 32/pause 150/emote Sam 32/jump Abigail 8/pause 300/jump Sam 8/pause 500/
+                end"
+            },
+            "When": {
+                "HasMod: |contains={{SVE}}": false,
+                "ExcludeSebastian": false
+            }
+        },
+        {
+            "LogName": "Event 23 - (SVE)",
+            "Action": "EditData",
+            "Target": "Data/Events/Saloon",
+            "Entries": {
+                "{{ModId}}_023/Friendship Sebastian 750/NpcVisibleHere Sebastian/SawEvent {{ModId}}_22 2794460": "sappypiano/36 19/farmer -1000 -1000 2 Sebastian 39 18 2 Abigail 42 20 3 Sam 36 20 1 Gus 10 18 2 Pam 7 18 1 Clint 19 23 3 Willy 18 22 2 Shane 21 17 2/skippable/
+                --Start/animate Shane false true 120 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 22 23 24 24 24 24 24 24 24 23 22 21 20/pause 2000/jump Abigail 8/emote Abigail 32/pause 700/
+                speak Abigail \"{{i18n:event.023.01}}\"/pause 300/jump Sam 8/emote Sam 32/pause 700/
+                speak Sam \"{{i18n:event.023.02}}\"/pause 300/jump Abigail 8/pause 300/jump Sam 8/pause 800/
+                speak Sebastian \"{{i18n:event.023.03}}\"/pause 300/
+                textAboveHead Sebastian \"{{i18n:event.023.04}}\"/pause 500/jump Sam 8/pause 300/jump Abigail 8/pause 300/emote Sam 32 true/emote Abigail 32/pause 500/emote Abigail 8/pause 500/
+                speak Abigail \"{{i18n:event.023.05}}\"/pause 300/shake Sebastian 150/pause 150/emote Sebastian 28/pause 500/
+                speak Sebastian \"{{i18n:event.023.06}}\"/pause 300/faceDirection Sam 0/pause 500/
+                speak Sam \"{{i18n:event.023.07}}\"/pause 300/emote Sebastian 28/pause 500/faceDirection Sam 0 true/emote Sam 8 true/emote Abigail 8/pause 700/
+                speak Sebastian \"{{i18n:event.023.08}}\"/pause 500/
+                speak Abigail \"{{i18n:event.023.09}}\"/pause 300/emote Sebastian 28/pause 500/
+                speak Sebastian \"{{i18n:event.023.10}}\"/pause 300/faceDirection Sam 2 true/faceDirection Abigail 2/pause 500/
+                speak Sam \"{{i18n:event.023.11}}\"/pause 300/faceDirection Abigail 3/pause 500/
+                speak Abigail \"{{i18n:event.023.12}}\"/pause 300/faceDirection Sam 1/pause 500/
+                speak Sam \"{{i18n:event.023.13}}\"/pause 500/
+                speak Sebastian \"{{i18n:event.023.14}}\"/pause 300/jump Abigail/pause 700/
+                speak Abigail \"{{i18n:event.023.15}}\"/pause 300/emote Sebastian 28/pause 700/
+                speak Sebastian \"{{i18n:event.023.16}}\"/pause 300/emote Abigail 32/pause 700/
+                speak Abigail \"{{i18n:event.023.17}}\"/pause 500/
+                speak Sebastian \"{{i18n:event.023.18}}\"/pause 500/
+                speak Abigail \"{{i18n:event.023.19}}\"/pause 500/
+                speak Sebastian \"{{i18n:event.023.20}}\"/pause 300/jump Abigail 8/emote Abigail 32/pause 500/
+                speak Abigail \"{{i18n:event.023.21}}\"/pause 300/jump Abigail 8/emote Abigail 32/pause 150/emote Sam 32/jump Abigail 8/pause 300/jump Sam 8/pause 500/
+                end"
+            },
+            "When": {
+                "HasMod: |contains={{SVE}}": true,
+                "ExcludeSebastian": false
+            }
+        },
+        //patch reload L0veRaven.PTEE
+        //debug ebi L0veRaven.PTEE_024
+        {
+            "LogName": "Event 24",
+            "Action": "EditData",
+            "Target": "Data/Events/Mine",
+            "Entries": {
+                "{{ModId}}_024/": "sappypiano/43 9/farmer 38 8 0 Dwarf 43 6 2/skippable/
+                --Start/move farmer 5 0 0/pause 300/jump farmer 8/pause 150/emote Dwarf 32/pause 700/
+                speak Dwarf \"{{i18n:event.024.01}}\"/pause 300/emote farmer 32/pause 700/
+                speak Dwarf \"{{i18n:event.024.02}}\"/pause 300/emote farmer 56/pause 700/
+                speak Dwarf \"{{i18n:event.024.03}}\"/pause 300/shake Dwarf 150/pause 200/shake Dwarf 150/pause 200/emote Dwarf 32/pause 700/
+                speak Dwarf \"{{i18n:event.024.04}}\"/pause 300/emote farmer 60/pause 500/
+                speak Dwarf \"{{i18n:event.024.05}}\"/pause 300/playSound reward/addItem 288 5/
+                message \"{{i18n:event.024.06}}\"/pause 300/emote farmer 32/pause 700/
+                speak Dwarf \"{{i18n:event.024.07}}\"/pause 500/
+                end"
+            },
+            "When": {
+                //"HasMod: |contains={{SVE}}": false,
+                "ExcludeDwarf": false
             }
         }
     ]

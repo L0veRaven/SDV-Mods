@@ -2,38 +2,38 @@
     //1.0.5 update
     "config.exclude.section": "Exclude Character Events",
     "config.exclude.abigail": "Exclude Abigail from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.alex": "Exclude Alex from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.alex": "Exclude Alex from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.caroline": "Exclude Caroline from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.clint": "Exclude Clint from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.demetrius": "Exclude Demetrius from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.demetrius": "Exclude Demetrius from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.dwarf": "Exclude Dwarf from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.elliot": "Exclude Elliot from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.emily": "Exclude Emily from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.evelyn": "Exclude Evelyn from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.george": "Exclude George from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.elliot": "Exclude Elliot from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.emily": "Exclude Emily from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.evelyn": "Exclude Evelyn from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.george": "Exclude George from having expanded events. This is best used to avoid lore conflicts in other mods.",
     //"config.exclude.gunther": "Exclude Gunther from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.gus": "Exclude Gus from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.haley": "Exclude Haley from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.harvey": "Exclude Harvey from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.gus": "Exclude Gus from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.haley": "Exclude Haley from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.harvey": "Exclude Harvey from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.jas": "Exclude Jas from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.jodi": "Exclude Jodi from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.kent": "Exclude Kent from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.krobus": "Exclude Krobus from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.leah": "Exclude Leah from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.lewis": "Exclude Lewis from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.linus": "Exclude Linus from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.jodi": "Exclude Jodi from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.kent": "Exclude Kent from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.krobus": "Exclude Krobus from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.leah": "Exclude Leah from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.lewis": "Exclude Lewis from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.linus": "Exclude Linus from having expanded events. This is best used to avoid lore conflicts in other mods.",
     //"config.exclude.marlon": "Exclude Marlon from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.marnie": "Exclude Marnie from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.maru": "Exclude Maru from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.marnie": "Exclude Marnie from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.maru": "Exclude Maru from having expanded events. This is best used to avoid lore conflicts in other mods.",
     //"config.exclude.morris": "Exclude Morris from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.mrqi": "Exclude Mr. Qi from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.mrqi": "Exclude Mr. Qi from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.pam": "Exclude Pam from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.leo": "Exclude Leo from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.leo": "Exclude Leo from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.penny": "Exclude Penny from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.pierre": "Exclude Pierre from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.robin": "Exclude Robin from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.robin": "Exclude Robin from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.sam": "Exclude Sam from having expanded events. This is best used to avoid lore conflicts in other mods.",
-    "config.exclude.sandy": "Exclude Sandy from having expanded events. This is best used to avoid lore conflicts in other mods.",
+    //"config.exclude.sandy": "Exclude Sandy from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.sebastian": "Exclude Sebastian from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.shane": "Exclude Shane from having expanded events. This is best used to avoid lore conflicts in other mods.",
     "config.exclude.vincent": "Exclude Vincent from having expanded events. This is best used to avoid lore conflicts in other mods.",
@@ -49,7 +49,36 @@
     "event.022.07": "Oh, my cigarette died.",
     "event.022.08": "I'm headed back inside.#$b#It was a nice talk, though.",
 
-    "event.023.01": "",
+    "event.023.01": "That's exactly what I thought!$1#$b#But you should've seen her face when I gave her clear quartz.#$b#Boy, was she mad.$1",//Abigail
+    "event.023.02": "Ha! That reminds me of the time I gave my mom a whole basket of spice berries.$1#$b#She was pretty disappointed, but after a couple of days, she forgave me.",//Sam
+    "event.023.03": "...$2",//Sebastian
+    "event.023.04": "*sigh*",//Sebastian
+    "event.023.05": "Hey, Sebastian, you're looking pretty stressed over there. Are you alright?$3",//Abigail
+    "event.023.06": "It's nothing to worry about.#$b#I just got lost in thought.$2",//Sebastian
+    "event.023.07": "Lost in thought? About what?",//Sam
+    "event.023.08": "It's just... do you guys ever get bored of this place?",//Sebastian
+    "event.023.09": "Well, I mean, if you want to just leave the Saloon and go hang elsewhere, we can do that.$3",//Abigail
+    "event.023.10": "N-no, not like that. I mean, do you ever get bored of Pelican Town?$2",//Sebastian
+    "event.023.11": "I can't say that I'm sick of Pelican Town. I like it here.#$b#That's probably because I'm so familiar with it, though.$10",//Sam
+    "event.023.12": "I think I get what Sebastian means.#$b#Don't get me wrong, it is nice here, but even I wish I could go on adventures. There's a lot to see out in the world.$6",//Abigail
+    "event.023.13": "I guess I don't mind the small town life.#$b#I will say, I couldn't imagine living in the city. The traffic and walkability would be terrible!$2",//Sam
+    "event.023.14": "It wouldn't be any trouble with a motorcycle, though.",//Sebastian
+    "event.023.15": "You still gotta take me out to Zuzu City one of these days on your bike.$1#$b#Remember, you lost that bet and I get dinner at the place of my choice.",//Abigail
+    "event.023.16": "That wasn't a real bet and you know it.$2",//Sebastian
+    "event.023.17": "Then don't make bets you can't follow through on.$1",//Abigail
+    "event.023.18": "Only after I fix my bike. It needs some work done on it before I ride it to Zuzu City again.",//Sebastian
+    "event.023.19": "You promise? You're not gonna flake out on me?",//Abigail
+    "event.023.20": "I promise.$1#$b#It's just gonna take some time for the right parts to come in the mail.",//Sebastian
+    "event.023.21": "Yay, free dinner!$1",//Abigail
+
+    "event.024.01": "Ahh, it is you again, @.#$b#I will say, it is nice to see you again.",//Dwarf
+    "event.024.02": "Did you come to peruse my wares?#$b#I have more bombs ready for you to purchase.",//Dwarf
+    "event.024.03": "Great! Aren't you lucky to get these items for such a good price?",//Dwarf
+    "event.024.04": "I'll tell you what, you're my best customer, so I'll let you have a couple of items for free.#$b#How does that sound?",//Dwarf
+    "event.024.05": "There's no need to be shy about it. Here.",//Dwarf
+    "event.024.06": "You have received five Mega Bombs.",//message
+    "event.024.07": "You are welcome. Now is there anything else you'd like to purchase while you're here?",//Dwarf
+
     //1.0.4 update
     "event.018.01": "Jas has a fake set of vampire teeth in her mouth and ketchup on her cheek.",
     "event.018.02": "Bleh, I'm a vampire!$1#$b#I'm going to drink your blood Vincent!$1",
